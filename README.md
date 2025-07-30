@@ -1,5 +1,5 @@
 
-# 🤖 AI Coding Assistant Project
+# 🤖 AI Coding Assistant
 
 Welcome to your all-in-one **Voice based Cursor**! This assistant executes your natural language requests, handles coding workflows, automates file management, opens websites, and searches YouTube—all powered by cutting-edge language models and automation tools. 🚀
 
